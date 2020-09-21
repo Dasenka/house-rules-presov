@@ -1,0 +1,3 @@
+:handbook: https://we.vacuumlabs.com/vacuum-book/
+:house_channel: link:https://app.slack.com/client/T026LE24D/CKC8YDXJ4[#presov]
+:handbook_cashbox: https://we.vacuumlabs.com/vacuum-book/#_receipts_reimbursement[handbook]

@@ -1,0 +1,57 @@
+// Include headers in all files to support Atom's Asciidoc Preview plugin.
+:imagesdir: ../assets
+include::header.adoc[]
+
+= House Rules Prešov
+
+This document explains how things work at Prešov office.
+
+Do you have a question not answered here? Ask in the {house_channel}. Also, don’t
+forget to let your Prešov colleagues know you are coming and don’t be shy,
+{office_manager} will help you with most of your requests.
+
+== Address
+
+Our office is located at Jarková street 14 on the first floor.
+
+pass:[<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2617.7855475021497!2d21.238156815512383!3d48.99563839898743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473eed7cdb4230df%3A0x56ad2082a68a4234!2zSmFya292w6EgMzEyOC8xNCwgMDgwIDAxIFByZcWhb3Y!5e0!3m2!1sen!2ssk!4v1600687156414!5m2!1sen!2ssk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>]
+
+== Entrance to the building
+
+If you are a new member of the team, {office_manager} will give you the door chip
+and all keys needed. Office is accessible 24/7 and there is no reception.
+
+If you are the last to leave the office, please check if windows are closed and
+both light and air conditioning are turned off.
+
+Smoking is only permitted on the balcony in the kitchen or outside of the building.
+
+== Parking
+
+=== Bicycle
+
+You can leave your bicycle in the office or in the hallway in front of the office.
+
+=== Car
+
+We have one parking spot reserved for us in the backyard parking area.
+
+== Kitchen
+
+There is a kitchen on the same floor as the office which is shared with other
+tenants. The kitchen has a fridge, microwave, kettle and tableware.
+
+=== Food
+
+There is a range of protein bars, nuts and drinks. In case you have special
+request, contact {office_manager}.
+
+== Wifi
+
+*Vacuumlabs*: VcMLbS27x3 +
+*Vacuumlabs Guest*: VacuumLabs
+
+== Cashbox
+
+Information about reimbursing expenses can be found in {handbook_cashbox}. Feel free
+to reach out to {office_manager} anytime you need to reimburse your expenses.
