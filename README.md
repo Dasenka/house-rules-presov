@@ -1,3 +1,3 @@
-# house-rules-kosice
+# house-rules-presov
 
-House rules for Košice office.
+House rules for Prešov office.
